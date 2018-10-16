@@ -1,1 +1,1 @@
-[csgoserverfiles auf mega.co.nz](https://mega.nz/#F!ENswRagR!tWtaCRkLQzxpF0tPH6FOcw)
+[csgoserverfiles in der polybox](https://polybox.ethz.ch/index.php/s/7CYp4Qn85zoYaNb)
