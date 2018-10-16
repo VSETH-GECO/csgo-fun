@@ -18,7 +18,7 @@
 		"maps_invote" "7" 
 		"default_min_players"   "4" 
 		"default_max_players"   "36" 
-		"command"   "unload; bar; mp_maxrounds 10; deadalltalk; bhop; noteams; mp_weapons_glow_on_ground 1"
+		"command"   "unload; bar; mp_maxrounds 10; deadalltalk; bhop; noteams"
 		
 		"br_drop"{}
 		"br_electrified"{}
@@ -100,7 +100,7 @@
 		"maps_invote" "5" 
 		"default_min_players"   "2" 
 		"default_max_players"   "36" 
-		"command"   "unload; bhop; mig; mp_weapons_glow_on_ground"
+		"command"   "unload; bhop; mig"
 		
 		"mg_grands"{}
 		"mg_mario"{}

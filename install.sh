@@ -10,11 +10,11 @@ mkdir ~/csgofunserver
 cp -r -v ~/freenas/cleanserver/* ~/csgofunserver
 echo Copied CSGOclean to server
 
-cp -v -r ~/freenas/csgofunserverfiles ~/csgofunserver
-echo Copied serverfiles to server
-
 cp -r -v ~/freenas/csgofunserver ~/
-echo Copied cfgs to server
+echo Copied Files from git to server
+
+cp -v -r ~/freenas/maps ~/csgofunserver/csgo
+echo Copied map to csgo
 
 sudo umount -f -l ~/freenas
 echo Unmounted freenas

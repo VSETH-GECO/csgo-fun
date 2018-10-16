@@ -1,0 +1,162 @@
+"Phrases"
+{
+	"headshot"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Headshot"
+		"de"		"{1} Kopfschuss"
+	}
+	"headshot 1"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Headshot"
+	}
+	"headshot 2"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 2HS"
+	}
+	"headshot 3"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 3HS Hattrick!"
+	}
+	"headshot 4"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 4HS Multikill!"
+	}
+	"headshot 5"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 5HS Impressive!"
+	}
+	"killsound 3"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 3Kills"
+	}
+	"killsound 4"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 4Kills"
+	}
+	"killsound 5"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 5Kills Rampage!"
+	}
+	"killsound 6"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 6Kills Killingspree!"
+	}
+	"killsound 7"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 7Kills Monsterkill!"
+	}
+	"killsound 8"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 8Kills Unstoppable!"
+	}
+	"killsound 9"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 9Kills Megakill!"
+	}
+	"killsound 10"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 10Kills Ultrakill!"
+	}
+	"killsound 11"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 11Kills Godlike!"
+	}
+	"killsound 12"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 12Kills WickedSick!"
+	}
+	"killsound 13"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 13Kills HolyShit!"
+	}
+	"combo 2"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 2Combo"
+	}
+	"combo 3"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 3Combo 2Fraegs!"
+	}
+	"combo 4"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 4Combo 4Fraegs!"
+	}
+	"combo 5"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} 5Combo ComboWhore!"
+	}
+	"first blood"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} First Blood"
+	}	
+	"grenade"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} kobed {2}"
+	}
+	"selfkill"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} humiliated himself"
+	}
+	"round play"
+	{
+		"en"		"Play"
+	}
+	"knife"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{2} was embarrassed with a knife by {1}"
+	}
+	"teamkill"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} just killed his team teammate {2}"
+	}
+	"announce message"
+	{
+		"en"		"Say !quake to change your sounds preferences."
+	}
+	"quake menu"
+	{
+		"en"		"Quake Menu"
+	}
+	"enable text"
+	{
+		"en"		"Enable Text Display"
+	}
+	"disable text"
+	{
+		"en"		"Disable Text Display"
+	}
+	"no quake sounds"
+	{
+		"en"		"No Quake Sounds"
+	}
+	"standard"
+	{
+		"en"		"Standard Sounds"
+	}
+}
