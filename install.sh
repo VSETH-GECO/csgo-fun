@@ -18,7 +18,7 @@ echo Copied CSGOclean to server
 cp -r -v ~/freenas/csgofunserver ~/
 echo Copied Files from git to server
 
-cp -v -r ~/freenas/csgofunserver/csgo ~/csgofunserver/
+cp -v -r ~/freenas/csgofiles/csgo ~/csgofunserver/
 echo Copied csgo files
 
 sudo umount -f -l ~/freenas
