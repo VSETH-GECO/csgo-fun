@@ -8,7 +8,7 @@ sudo apt-get -y install lib32gcc1 steamcmd nfs-common
 echo Installed steamcmd and nfs-common
 
 mkdir ~/freenas
-sudo mount -t nfs freenas:/mnt/RAID1/csgo ~/freenas
+sudo mount -t nfs freenas.geco.local:/mnt/RAID1/csgo ~/freenas
 echo Mounted freenas
 
 mkdir ~/csgofunserver
